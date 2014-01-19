@@ -1,0 +1,146 @@
+@CHARSET "UTF-8";
+
+.center {
+	text-align:center;
+}
+
+.link_center {
+	text-align:center;
+	padding: 5px 5px 5px 5px;
+}
+
+.header_tittle {
+	text-shadow:
+		0 -1px 1px #FFF,
+    	-1px 0 1px #FFF,
+    	1px 0 1px #FFF,
+    	0 1px 1px #FFF,
+    	1px 1px 1px #4048ff,
+    	2px 2px 2px #4048ff,
+    	3px 3px 3px #4048ff;
+	font-weight: bold;
+	color: #4048ff;
+}
+div#header, div#main {
+	margin:auto;
+	width:900px;
+}
+
+div#main {
+	margin-top: 50px;
+}
+
+div#main_login {
+	margin-top: 100px;
+}
+
+div#wrap {
+	margin:auto;
+	border-style: solid;
+	border-width: 1px 2px 2px 1px;
+	border-color: #c0c0c0 #808080 #808080 #c0c0c0;
+	overflow: auto;
+	width: 900px;
+	background-color: #efffff;
+	padding: 10px 0px 40px 30px;
+}
+
+div#wrap_2 {
+	margin:auto;
+	border-style: solid;
+	border-width: 1px 2px 2px 1px;
+	border-color: #c0c0c0 #808080 #808080 #c0c0c0;
+	width: 900px;
+	background-color: #efffff;
+	padding: 10px 0px 40px 30px;
+}
+
+div#wrap_login {
+	margin:auto;
+	border-style: solid;
+	border-width: 1px 2px 2px 1px;
+	border-color: #c0c0c0 #808080 #808080 #c0c0c0;
+	width: 300px;
+	background-color: #efffff;
+	padding: 20px 0px 20px 0px;
+}
+
+div#wrap_user_update {
+	margin:auto;
+	border-style: solid;
+	border-width: 1px 2px 2px 1px;
+	border-color: #c0c0c0 #808080 #808080 #c0c0c0;
+	width: 400px;
+	background-color: #efffff;
+	padding: 20px 0px 20px 0px;
+}
+
+.center_in_wrap {
+	margin: auto;
+}
+
+body {
+	font-family:  "メイリオ", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	color: #27435E;
+	background-color: #CCFFF8;
+}
+
+.headline {
+	border-style: solid;
+	text-align:center;
+	border-width: 0px 0px 2px 5px;
+	width: 150px
+}
+
+.headline_long {
+	border-style: solid;
+	text-align:center;
+	border-width: 0px 0px 2px 5px;
+	width: 300px
+}
+
+.headline_center {
+	margin:auto;
+	text-align:center;
+	border-style: solid;
+	border-width: 0px 0px 2px 5px;
+	width: 150px
+}
+
+div.right_button {
+	text-align: right;
+	margin: 20px 40px 0px 0px;
+}
+
+a {
+	text-decoration: none;
+	color: #0000ff;
+}
+
+a:hover {
+	color: #00ccff;
+}
+
+.float_left {
+	float: left;
+}
+
+.float_right {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.not_space {
+	margin: 0px 0px 0px 0px;
+}
+
+.yotei_jisseki {
+	margin-right: 10px;
+}
+
+.top_space {
+	margin-top: 20px;
+}
